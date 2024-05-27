@@ -12,7 +12,7 @@ tabela = pandas.read_csv('Teste de Designações Planilha1.csv')
 
 
 for linha in tabela.index:
-    time.sleep(2)
+    time.sleep(10)
 # Titular
     Nome = tabela.loc[linha,"Nome"]
     pyautogui.write(Nome)
