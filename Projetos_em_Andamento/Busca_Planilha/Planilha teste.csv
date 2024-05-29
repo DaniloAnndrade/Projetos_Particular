@@ -1,15 +1,15 @@
-NOME,DATA,Num.Parte,Titular/Ajudante,Concluiu,Sala
-Luiz Lino,08/05/2024,3. Leitura da Bíblia,T,S,Principal
-Pedro Gomes,08/05/2024,3. Leitura da Bíblia,T,N,B
-Adriana Nunes,08/05/2024,4. Iniciando conversas,T,S,Principal
-Ana Sales,08/05/2024,4. Iniciando conversas,A,S,Principal
-Regina Almeida,08/05/2024,4. Iniciando conversas,T,S,B
-Drieli ,08/05/2024,4. Iniciando conversas,A,N,B
-Gleyciane,08/05/2024,5. Cultivando o interesse,T,S,Principal
-Suellen Silva,08/05/2024,5. Cultivando o interesse,A,N,Principal
-Daniela,08/05/2024,5. Cultivando o interesse,T,S,B
-Helena,08/05/2024,5. Cultivando o interesse,T,S,B
-Gustavo,08/05/2024,6. Discurso,T,S,Principal
-Vitor,08/05/2024,6. Discurso,T,S,B
-Danilo,01/10/1998,3.Leitura da Biblia,T,S,Principal
-Diva,09/10/1959,4.De casa em casa,T,S,B
+NOME,DATA,Num.Parte,Ajudante,Lição,Sala,Sexo,Lição.1
+Luiz Lino,07/04/2024,3. Leitura da Bíblia,-,1,Principal,M,N
+Pedro Gomes,08/05/2024,3. Leitura da Bíblia,-,4,B,M,S
+Adriana Nunes,09/04/2024,4. Iniciando conversas,Diva,3,Principal,F,S
+Ana Sales,09/01/2024,4. Iniciando conversas,Terezinha,10,Principal,F,S
+Regina Almeida,08/05/2024,4. Iniciando conversas,Rejane,13,B,F,S
+Drieli,08/05/2024,4. Iniciando conversas,Fatima,15,B,F,N
+Gleyciane,08/05/2024,5. Cultivando o interesse,Aparecida,3,Principal,F,S
+Suellen Silva,06/02/2024,5. Cultivando o interesse,Gardene,5,Principal,F,N
+Daniela,07/05/2024,5. Cultivando o interesse,Julia,2,B,F,S
+Helena,08/05/2024,5. Cultivando o interesse,Lurdes,4,B,F,S
+Gustavo,18/05/2024,6. Discurso,-,1,Principal,M,S
+Vitor,08/05/2024,6. Discurso,-,3,B,M,S
+Danilo,01/10/1998,3.Leitura da Biblia,-,2,Principal,M,S
+Diva,09/10/1959,4.De casa em casa,Mila,1,B,F,S

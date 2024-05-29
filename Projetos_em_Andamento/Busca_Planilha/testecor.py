@@ -1,13 +1,9 @@
-import csv
-import pandas as pd
 
+from datetime import timedelta, date
+data_atual = date.today()
+var = {01/}
+#data_atual = date.today() + timedelta(days=5*30)
+data_em_texto = data_atual.strftime('%d/%m/%Y')
 
-planilha = pd.read_csv("Planilha teste.csv")
-
-con_pl = len(planilha)
-
-planilha['DATA']= pd.to_datetime(planilha['DATA'])
-
-data_planilha = planilha.sort_values(by='DATA', ascending=True)
-
-print(data_planilha)
+print(data_atual)
+print(data_em_texto)
